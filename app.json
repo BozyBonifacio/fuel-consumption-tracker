@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Fuel Consumption Tracker",
+    "slug": "fuel-consumption-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.fuelconsumptiontracker"
+    },
+    "android": {
+      "package": "com.example.fuelconsumptiontracker"
+    }
+  }
+}
